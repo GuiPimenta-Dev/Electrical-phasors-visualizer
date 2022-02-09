@@ -1,0 +1,35 @@
+.average {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+.average-table {
+  width: 50%;
+  text-align: center;
+}
+
+.average-table thead,
+.average-table thead > th {
+  background: #f86440;
+  color: #fff;
+}
+
+.label-font {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.phasor-label {
+  width: 160px;
+  margin-left: auto;
+}
+
+.title {
+  /* width: 80%; */
+  display: flex;
+  justify-content: center;
+  color: #0b66a4;
+  font-weight: bold;
+}
