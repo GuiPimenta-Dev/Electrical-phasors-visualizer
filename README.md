@@ -1,3 +1,3 @@
 # Electrical-phasors-visualizer
 
-<img src="ez.gif.com-gifmaker.gif">
+<img src="ezgif.com-gif-maker.gif">
