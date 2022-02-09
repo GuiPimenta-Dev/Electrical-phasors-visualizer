@@ -22,17 +22,6 @@ The API has the following endpoints:
 
 Test the available endpoints at: https://maq-sinc-uff.herokuapp.com/api/v1/docs
 
-
-### Setup locally
-```bash
-$ git clone https://github.com/GuiPimenta-Dev/desafio_shape.git
-$ cd desafio_shape
-```
-### Configure environment variables
-```bash
-$ cp env_example.py env.py
-```
-
 ### Test Output
 ```bash
 pytest
