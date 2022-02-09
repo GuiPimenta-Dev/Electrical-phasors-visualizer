@@ -30,7 +30,11 @@ rootdir: /Users/guilhermealvespimenta/PycharmProjects/tcc
 plugins: sugar-0.9.4, anyio-3.3.4
 collecting ... 
                                                                                                                                                                                                                                          
-tests/test_connected_generator.py ✓✓✓✓    33% ███▍                                                                                                                                                                                                                                               tests/test_isolated_generator.py ✓✓✓✓     67% ██████▋                                                                                                                                                                                                                                                                   tests/test_motor.py ✓✓✓✓                 100% ██████████                                                                                                                                                                                                                                                         
+tests/test_connected_generator.py ✓✓✓✓    33% ███▍
+
+tests/test_isolated_generator.py ✓✓✓✓     67% ██████▋                                                                                                                                                                                                                                                                   
+
+tests/test_motor.py ✓✓✓✓                 100% ██████████                                                                                                                                                                                                                                                         
  
 Results (0.12s):
       12 passed
