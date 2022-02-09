@@ -75,13 +75,13 @@ Results (0.12s):
       
 <br/>
 
-**7. React**
+**5. React**
       
 * Used to build the front-end.
 
 <br/>
 
-**8. Swagger**
+**6. Swagger**
 
  * Great tool to facilitate the visualization of endpoints between different teams.
 
